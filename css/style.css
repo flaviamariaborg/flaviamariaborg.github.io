@@ -1,0 +1,26 @@
+.bg-img {
+	background:url("../img/roma.jpeg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+h1{
+	color: white;
+
+}
+
+h1:hover {
+	color:yellow;
+
+}
+
+
+.btn-success {
+position: relative;
+top: 80vh;
+}
+
+.btn-success:hover {
+	bottom: 300px;
+	color: white;
+	top:82vh;
+}
